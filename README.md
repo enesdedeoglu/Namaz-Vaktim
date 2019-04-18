@@ -1,4 +1,5 @@
-NAMAZ VAKTİM
+NAMAZ VAKTÄ°M
 
-5 Vakit Namaz Vakitlerini Diyanet İşleri Başkanlığı verilerine göre gösteren mobil uygulama.
+5 Vakit Namaz Vakitlerini Diyanet Ä°ÅŸleri BaÅŸkanlÄ±ÄŸÄ± verilerine gÃ¶re gÃ¶steren mobil uygulama.
 
+https://play.google.com/store/apps/details?id=enes.NamazApp
